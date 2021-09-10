@@ -1,5 +1,6 @@
 module.exports = {
   "0": {
+    "id": 0,
     "name": "ChunkyChicken#0",
     "description": "This is a Chunky Chicken NFT",
     "image": "https://gateway.ipfs.io/ipfs/QmX3PUo9Y5xuUirsLV5o1G63u6BqjcNeg2EkyquWqn97UY",
@@ -39,6 +40,7 @@ module.exports = {
     ]
   },
   "1": {
+    "id":1, 
     "name": "ChunkyChicken#1",
     "description": "This is a Chunky Chicken NFT",
     "image": "https://gateway.ipfs.io/ipfs/Qmd2vRqdfQXH4jtq1QhtXiFtCgU564RJUo2FLfL6aAjGx1",
@@ -78,6 +80,7 @@ module.exports = {
     ]
   },
   "2": {
+    "id":2,
     "name": "ChunkyChicken#2",
     "description": "This is a Chunky Chicken NFT",
     "image": "https://gateway.ipfs.io/ipfs/QmT8ZVkzcWj5wJCopfmVuHRNLw2qxpkyJicfd6YfD2vnvx",

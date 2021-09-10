@@ -25,7 +25,6 @@ app.get('/api/token/:token_id', function(req, res) {
   const data = {
     'id': person.id,
     'description': person.description,
-    'external_url': person.external_url,
     'image': person.image,
     'name': person.name,
     'attributes': [
