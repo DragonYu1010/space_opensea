@@ -1,26 +1,24 @@
 module.exports = {
   "0": {
-    "id": 0,
-    "description": "ChunkyChicken#0",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+    "name": "ChunkyChicken#0",
+    "description": "This is a Chunky Chicken NFT",
     "image": "https://gateway.ipfs.io/ipfs/QmX3PUo9Y5xuUirsLV5o1G63u6BqjcNeg2EkyquWqn97UY",
-    "name": "My NFT 0",
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Magic Spotlight"
+        "value": "Hall"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Robe"
+        "value": "Red Head"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Staff"
+        "value": "Silver Rolex"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Medallion"
+        "value": "Bling"
       },
       {
         "trait_type": "4_HEAD",
@@ -28,56 +26,93 @@ module.exports = {
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "None"
+        "value": "Cigar"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "None"
+        "value": "Shades"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Wizard Hat"
+        "value": "Base Mafia"
       }
     ]
   },
   "1": {
-    "id": 1,
-    "description": "This NFT is created by David",
-    // "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://ipfsgateway.makersplace.com/ipfs/QmQ2NkJW8auAHKBhw18tjNzZV7P8p379zoSDJeHPdTJ9ej",
-    "name": "Chunky Test",
+    "name": "ChunkyChicken#1",
+    "description": "This is a Chunky Chicken NFT",
+    "image": "https://gateway.ipfs.io/ipfs/Qmd2vRqdfQXH4jtq1QhtXiFtCgU564RJUo2FLfL6aAjGx1",
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Underwater"
+        "value": "Room"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Shiny"
+        "value": "Varsity3"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "None"
+        "value": "Apple1"
       },
       {
         "trait_type": "3_NECK",
-        "value": "None"
+        "value": "Bling"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Blue Head"
+        "value": "Red Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "None"
+        "value": "Gold Ring"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Blue Laser Eyes"
+        "value": "Shades"
       },
       {
         "trait_type": "7_HAT",
-        "value": "No Hat"
+        "value": "Cap"
+      }
+    ]
+  },
+  "2": {
+    "name": "ChunkyChicken#2",
+    "description": "This is a Chunky Chicken NFT",
+    "image": "https://gateway.ipfs.io/ipfs/QmT8ZVkzcWj5wJCopfmVuHRNLw2qxpkyJicfd6YfD2vnvx",
+    "attributes": [
+      {
+        "trait_type": "0_BACKGROUND",
+        "value": "Spotlight"
+      },
+      {
+        "trait_type": "1_CLOTHES",
+        "value": "Red Head"
+      },
+      {
+        "trait_type": "2_WATCH",
+        "value": "Apple1"
+      },
+      {
+        "trait_type": "3_NECK",
+        "value": "Red Gloves"
+      },
+      {
+        "trait_type": "4_HEAD",
+        "value": "Red Head"
+      },
+      {
+        "trait_type": "5_MOUTH",
+        "value": "Black Mustache"
+      },
+      {
+        "trait_type": "6_GLASSES",
+        "value": "Base Aviators"
+      },
+      {
+        "trait_type": "7_HAT",
+        "value": "Cap"
       }
     ]
   },
